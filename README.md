@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elyorxon
-- 👀 I’m interested in e-commerce, ML, Python, Django
+- 👀 I’m interested in edtech, e-commerce, AI projects, Python, Django, .Net
 - 🌱 I’m currently learning machine learning
 
 - 📫 How to reach me aloqjariy@gmail.com
